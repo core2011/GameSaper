@@ -6,7 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaa96a98-436c-4873-91d9-54f1aef0ea1a" name="Default Changelist" comment="" />
+    <list default="true" id="aaa96a98-436c-4873-91d9-54f1aef0ea1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Sweeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Sweeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Sweeper/META-INF/Java_Sweeper.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YIPD5JWCygMMVnkeDOUgIGrxO8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -37,53 +49,6 @@
     <configuration name="JavaSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaSweeper" />
       <module name="Java_Sweeper" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Java_Sweeper" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Java_Sweeper" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,37 +73,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="189" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1582640639292">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1492" height="99" key="GridCell.Tab.0.bottom" timestamp="1636360385573">
+      <screen x="-1920" y="-75" width="1536" height="824" />
     </state>
-    <state x="189" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582640639292" />
-    <state x="250" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582630769001">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1492" height="99" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-75.1536.824@-1920.-75.1536.824" timestamp="1636360385573" />
+    <state width="1492" height="99" key="GridCell.Tab.0.center" timestamp="1636360385573">
+      <screen x="-1920" y="-75" width="1536" height="824" />
     </state>
-    <state x="250" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582630769001" />
-    <state x="193" y="254" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1582645193123">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1492" height="99" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-75.1536.824@-1920.-75.1536.824" timestamp="1636360385573" />
+    <state width="1492" height="99" key="GridCell.Tab.0.left" timestamp="1636360385572">
+      <screen x="-1920" y="-75" width="1536" height="824" />
     </state>
-    <state x="193" y="254" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1536.824@0.0.1536.824" timestamp="1582645193123" />
-    <state width="1515" height="99" key="GridCell.Tab.0.bottom" timestamp="1582660158921">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1492" height="99" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-75.1536.824@-1920.-75.1536.824" timestamp="1636360385572" />
+    <state width="1492" height="99" key="GridCell.Tab.0.right" timestamp="1636360385573">
+      <screen x="-1920" y="-75" width="1536" height="824" />
     </state>
-    <state width="1515" height="99" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582660158921" />
-    <state width="1515" height="99" key="GridCell.Tab.0.center" timestamp="1582660158921">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="99" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582660158921" />
-    <state width="1515" height="99" key="GridCell.Tab.0.left" timestamp="1582660158921">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="99" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582660158921" />
-    <state width="1515" height="99" key="GridCell.Tab.0.right" timestamp="1582660158921">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="99" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582660158921" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1582646428193">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582646428193" />
+    <state width="1492" height="99" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-75.1536.824@-1920.-75.1536.824" timestamp="1636360385573" />
   </component>
 </project>
